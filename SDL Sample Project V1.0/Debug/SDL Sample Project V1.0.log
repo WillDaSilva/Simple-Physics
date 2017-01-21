@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDL Sample Project V1.0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(125): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\main.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\vec2.h(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\vec2.h(45): note: while compiling class template member function 'vec2<float> vec2<float>::operator *(double)'
+  c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(40): note: see reference to function template instantiation 'vec2<float> vec2<float>::operator *(double)' being compiled
+  c:\programming\c++\sdl sample project v1.0\sdl sample project v1.0\entity.h(26): note: see reference to class template instantiation 'vec2<float>' being compiled
+  SDL Sample Project V1.0.vcxproj -> C:\Programming\C++\SDL Sample Project V1.0\Debug\Simple Physics.exe
