@@ -1,20 +1,21 @@
 ﻿  Main.cpp
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(125): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(125): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 Main.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\programming\c++\simple physics\sdl sample project v1.0\vec2.h(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  c:\programming\c++\simple physics\sdl sample project v1.0\vec2.h(45): note: while compiling class template member function 'vec2<float> vec2<float>::operator *(double)'
-  c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(40): note: see reference to function template instantiation 'vec2<float> vec2<float>::operator *(double)' being compiled
-  c:\programming\c++\simple physics\sdl sample project v1.0\Entity.h(26): note: see reference to class template instantiation 'vec2<float>' being compiled
+c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\vec2.h(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\vec2.h(45): note: while compiling class template member function 'vec2<float> vec2<float>::operator *(double)'
+  c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(40): note: see reference to function template instantiation 'vec2<float> vec2<float>::operator *(double)' being compiled
+  c:\users\braedon\documents\visual studio 2015\projects\simple physics\sdl sample project v1.0\Entity.h(26): note: see reference to class template instantiation 'vec2<float>' being compiled
   Generating code
-  0 of 67 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  2 of 67 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  SDL Sample Project V1.0.vcxproj -> C:\Programming\C++\Simple Physics\Release\Simple Physics.exe
+  SDL Sample Project V1.0.vcxproj -> C:\Users\Braedon\Documents\Visual Studio 2015\Projects\Simple Physics\Release\Simple Physics.exe
+  SDL Sample Project V1.0.vcxproj -> C:\Users\Braedon\Documents\Visual Studio 2015\Projects\Simple Physics\Release\Simple Physics.pdb (Full PDB)

@@ -211,6 +211,6 @@ void loadSurfaces() {
 void loadCircles() {
 
 	testGroup[0] = Circle(1, 1, 100, 100, 250, 125, true,1);
-	testGroup[1] = Circle(1, 5, 400, 400, 500, 155, true,2);
+	testGroup[1] = Circle(1, 500, 400, 400, 500, 155, true,2);
 
 }
